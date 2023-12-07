@@ -10,13 +10,13 @@
     ],
     "require": {
         "php": "^8.0",
-        "filament/filament": "^2.0",
+        "filament/filament": "^3.0",
         "spatie/laravel-package-tools": "^1.12",
         "openai-php/laravel": "^0.4.1",
         "illuminate/contracts": "^9.0|^10.0"
     },
     "license": "MIT",
-    "homepage": "https://github.com/askerakbar/gpt-trix-editor/",
+    "homepage": "https://github.com/Blinchick/gpt-trix-editor",
     "type": "library",
     "autoload": {
         "psr-4": {
